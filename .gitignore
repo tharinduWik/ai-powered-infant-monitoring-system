@@ -1,2 +1,3 @@
 # ignore ONLY the raw data folder
 backend_api/ml_pipeline/src/pain_discomfort/data/raw/
+/ml_pipeline/src/pain_discomfort/data/raw
